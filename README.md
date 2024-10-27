@@ -1,2 +1,4 @@
 # capstone_project
-Project on BART, DIstelBert, T5
+Problem Statement: The exponential growth of scholarly publications, particularly in computer science, physics, and mathematics, creates an information overload, making it challenging for researchers to stay updated on current developments. This project addresses this issue by leveraging transformer-based models to automate research paper summarization across multiple arXiv categories, providing a scalable, accurate tool that aids efficient knowledge dissemination
+Importance of the Problem: Keeping up with the pace of research is crucial for informed decision-making and academic progress. Researchers, students, and practitioners often rely on detailed readings, a time-consuming process exacerbated by the vast number of new publications. An automated solution that generates concise summaries and answers pertinent questions from research content is valuable for increasing accessibility and knowledge transfer.
+
